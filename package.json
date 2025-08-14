@@ -4,14 +4,23 @@
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
+        "dev": "nodemon server.js",
         "start:pm2": "npm run pm2:start",
         "pm2:start": "pm2 start process.json",
         "pm2:stop": "pm2 stop process.json",
-        "pm2:delete": "pm2 delete process.json"
+        "pm2:delete": "pm2 delete process.json",
+        "pm2:restart": "pm2 restart process.json",
+        "pm2:logs": "pm2 logs process.json"
     },
     "author": "Kevin Novak",
     "dependencies": {
-        "express": "^4.18.2",
-        "pm2": "^5.3.1"
+        "express": "^5.1.0",
+        "pm2": "^6.0.8"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
     }
 }
