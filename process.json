@@ -1,8 +1,12 @@
 {
-    "apps": [
-        {
-            "name": "time-zone-picker",
-            "script": "server.js"
-        }
-    ]
+	"apps": [
+		{
+			"name": "zones-arilyn-cc",
+			"script": "build/index.js",
+			"restart_delay": 10000,
+			"env": {
+				"PORT": 3000
+			}
+		}
+	]
 }
