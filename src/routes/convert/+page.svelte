@@ -114,6 +114,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Convert Date & Time | zones.arilyn.cc</title>
+</svelte:head>
+
 <div class="container mt-4">
 	<h1>Convert Date & Time</h1>
 	<p class="text-muted mb-3">Convert a date and time between time zones.</p>

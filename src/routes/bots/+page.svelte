@@ -4,6 +4,10 @@
 	import BirthdayBotIcon from '$lib/images/bots/birthday-bot-icon.png';
 </script>
 
+<svelte:head>
+	<title>Discord Bots | zones.arilyn.cc</title>
+</svelte:head>
+
 <h1>Discord Bots</h1>
 
 <p class="text-muted mb-3">

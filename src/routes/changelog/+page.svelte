@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Changelog | zones.arilyn.cc</title>
+</svelte:head>
+
 <h1>Changelog</h1>
 
 <p>

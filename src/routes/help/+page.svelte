@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Help | zones.arilyn.cc</title>
+</svelte:head>
+
 <h1>Help</h1>
 <p class="text-muted mb-3">
 	Welcome! Here you'll find answers to common questions about this website.

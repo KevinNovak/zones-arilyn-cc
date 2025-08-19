@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Privacy Policy | zones.arilyn.cc</title>
+</svelte:head>
+
 <h1>Privacy Policy</h1>
 <p>Revised: August 16, 2025</p>
 <p>

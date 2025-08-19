@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>About Us | zones.arilyn.cc</title>
+</svelte:head>
+
 <div class="container mt-4">
 	<h1>About Us</h1>
 	<p>

@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Contact Us | zones.arilyn.cc</title>
+</svelte:head>
+
 <h1>Contact Us</h1>
 <p class="lead">Have questions or feedback? Feel free to reach out to us at the links below:</p>
 

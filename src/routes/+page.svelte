@@ -191,6 +191,7 @@
 </script>
 
 <svelte:head>
+	<title>Time Zone Map | zones.arilyn.cc</title>
 	<link
 		rel="stylesheet"
 		href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"

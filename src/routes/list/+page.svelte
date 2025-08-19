@@ -72,6 +72,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Time Zone List | zones.arilyn.cc</title>
+</svelte:head>
+
 <div class="container mt-4">
 	<h1>Time Zone List</h1>
 	<p class="text-muted mb-3">

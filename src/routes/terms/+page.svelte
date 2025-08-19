@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Terms of Service | zones.arilyn.cc</title>
+</svelte:head>
+
 <h1>Terms of Service</h1>
 <p>Revised: August 16, 2025</p>
 <p>
