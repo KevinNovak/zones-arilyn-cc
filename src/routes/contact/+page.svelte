@@ -12,7 +12,7 @@
 			<h5>Discord</h5>
 			<p class="mb-0">
 				<a href="https://discord.com/invite/c9kQktCbsE" target="_blank"
-					>https://discord.com/invite/c9kQktCbsE</a
+					>discord.com/invite/c9kQktCbsE</a
 				>
 			</p>
 			<p class="text-muted mt-1 mb-0">Join our Discord support server for help and feedback.</p>
@@ -31,7 +31,7 @@
 		<div>
 			<h5>Developer</h5>
 			<p class="mb-0">
-				<a href="https://github.com/kevinnovak" target="_blank">https://github.com/kevinnovak</a>
+				<a href="https://github.com/kevinnovak" target="_blank">github.com/kevinnovak</a>
 			</p>
 			<p class="text-muted mt-1 mb-0">For technical contact and bug reports.</p>
 		</div>
