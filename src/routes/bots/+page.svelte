@@ -33,7 +33,7 @@
 <h2><img src={QotdBotIcon} alt="QOTD Bot Icon" class="bot-icon" /> QOTD Bot</h2>
 <p>
 	<a
-		href="https://discord.com/oauth2/authorize?client_id=713586207119900693&scope=bot%20applications.commands&permissions=326418033664"
+		href="https://discord.com/oauth2/authorize?client_id=713586207119900693&scope=bot%20applications.commands&permissions=2252126231710720"
 		target="_blank">Add QOTD Bot</a
 	>
 	|
